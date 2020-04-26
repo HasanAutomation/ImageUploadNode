@@ -1,0 +1,16 @@
+{
+  "name": "imageupload",
+  "version": "1.0.0",
+  "description": "This is an image upload tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
